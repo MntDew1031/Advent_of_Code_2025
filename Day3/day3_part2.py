@@ -243,5 +243,3 @@ puzzle_input = """49422232242231343122212224333363242344333142223337232226424411
 if __name__ == "__main__":
     answer = solve_day3_part2(puzzle_input)
     print(answer)
-    # For your full input this should print:
-    # 171846613143331
